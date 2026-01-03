@@ -57,16 +57,6 @@ Push to Docker Hub (prod repo)
 
 Deploy production container
 
-📂 Repository Structure
-.
-├── Dockerfile
-├── Jenkinsfile
-├── build.sh
-├── deploy.sh
-├── .gitignore
-├── .dockerignore
-├── build/            # React build output
-
 🐳 Docker Automation
 
 build.sh
